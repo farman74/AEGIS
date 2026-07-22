@@ -1,8 +1,8 @@
-# Agent Documentation
+# 04-Agents/Documentation
 
 ## Objectif
 
-L'agent Documentation est responsable de la création et de la maintenance de toute la documentation d'ExamOS.
+Décrire l'Agent spécialiste Documentation d'ExamOS.
 
 ## Structure
 
@@ -17,7 +17,8 @@ L'agent Documentation est responsable de la création et de la maintenance de to
 └── CHECKLIST.md
 ```
 
-## Liens
+## Liens avec les autres dossiers
 
-- `10-Templates/Documentation.md`
-- `02-Brain/`
+- `10-Templates/Documentation.md` : Template officiel
+- `09-Checklists/Documentation.md` : Checklist
+- `06-Playbooks/Documentation/` : Protocoles

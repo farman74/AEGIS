@@ -1,8 +1,8 @@
-# Agent Testing
+# 04-Agents/Testing
 
 ## Objectif
 
-L'agent Testing est responsable de la qualité et de la validation de tous les livrables.
+Décrire l'Agent spécialiste Testing d'ExamOS.
 
 ## Structure
 
@@ -17,7 +17,8 @@ L'agent Testing est responsable de la qualité et de la validation de tous les l
 └── CHECKLIST.md
 ```
 
-## Liens
+## Liens avec les autres dossiers
 
-- `05-Engineering/Testing/RULES.md`
-- `09-Checklists/`
+- `05-Engineering/Testing/` : Règles techniques
+- `09-Checklists/Testing.md` : Checklist
+- `10-Templates/Test.md` : Template

@@ -1,10 +1,8 @@
-# Agent Sécurité
+# 04-Agents/Security
 
 ## Objectif
 
-L'agent Sécurité est responsable de l'authentification, du RBAC, de l'audit et de la protection des données.
-
-Utilise Supabase Auth et Supabase Row Level Security (RLS).
+Décrire l'Agent spécialiste Sécurité d'ExamOS.
 
 ## Structure
 
@@ -19,6 +17,7 @@ Utilise Supabase Auth et Supabase Row Level Security (RLS).
 └── CHECKLIST.md
 ```
 
-## Liens
+## Liens avec les autres dossiers
 
-- `05-Engineering/Security/RULES.md`
+- `05-Engineering/Security/` : Règles techniques
+- `09-Checklists/Security.md` : Checklist

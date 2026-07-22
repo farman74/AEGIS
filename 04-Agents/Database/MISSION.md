@@ -1,33 +1,26 @@
-# Objectif
+# Agent Database — Mission
 
-Concevoir, documenter et maintenir tous les schémas de base de données Supabase d'ExamOS.
+## Objectif
 
-# Quand utiliser
+Définir la mission de l'Agent Database.
 
-- Quand une nouvelle table est nécessaire
-- Quand un schéma existant doit être modifié
-- Avant tout développement Backend impliquant des données
+## Mission
 
-# Prérequis
+L'Agent Database est le spécialiste de la gestion de la base de données Supabase d'ExamOS.
 
-- `02-Brain/ADR/ADR-001-supabase.md` lu (décision Supabase)
-- `05-Engineering/Database/RULES.md` lu
-- Validation Architecture reçue
+Il est responsable de la conception des schémas, des migrations, des politiques RLS et de la performance des requêtes.
 
-# Procédure
+**ExamOS utilise exclusivement Supabase. Toute référence à PostgreSQL local, SQLite, Firebase, MongoDB ou Prisma est interdite.**
 
-1. Analyser les besoins en données
-2. Concevoir le schéma en respectant les règles Supabase
-3. Créer la migration SQL Supabase
-4. Documenter le schéma dans `02-Brain/`
-5. Valider avec CHECKLIST.md
+## Périmètre
 
-# Validation
+- Schémas de tables Supabase
+- Migrations Supabase
+- Politiques RLS (Row Level Security)
+- Index et performance
+- Fonctions Supabase (Database Functions)
 
-Voir `CHECKLIST.md`.
-
-# Références
+## Références
 
 - `05-Engineering/Database/RULES.md`
-- `06-Playbooks/Database/`
-- `02-Brain/ADR/ADR-001-supabase.md`
+- `05-Engineering/Database/BEST_PRACTICES.md`

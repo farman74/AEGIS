@@ -1,8 +1,8 @@
-# Agent Frontend
+# 04-Agents/Frontend
 
 ## Objectif
 
-L'agent Frontend est responsable de l'interface utilisateur et des composants ExamOS.
+Décrire l'Agent spécialiste Frontend d'ExamOS.
 
 ## Structure
 
@@ -17,6 +17,8 @@ L'agent Frontend est responsable de l'interface utilisateur et des composants Ex
 └── CHECKLIST.md
 ```
 
-## Liens
+## Liens avec les autres dossiers
 
-- `05-Engineering/Frontend/RULES.md`
+- `05-Engineering/Frontend/` : Règles techniques
+- `06-Playbooks/Frontend/` : Protocoles pas-à-pas
+- `09-Checklists/Frontend.md` : Checklist de domaine

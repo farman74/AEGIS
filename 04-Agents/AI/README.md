@@ -1,8 +1,8 @@
-# Agent IA
+# 04-Agents/AI
 
 ## Objectif
 
-L'agent IA est responsable des modèles, des prompts et de la correction assistée par intelligence artificielle.
+Décrire l'Agent spécialiste Intelligence Artificielle d'ExamOS.
 
 ## Structure
 
@@ -17,7 +17,8 @@ L'agent IA est responsable des modèles, des prompts et de la correction assist�
 └── CHECKLIST.md
 ```
 
-## Liens
+## Liens avec les autres dossiers
 
-- `05-Engineering/AI/RULES.md`
-- `04-Agents/OCR/README.md`
+- `05-Engineering/AI/` : Règles techniques
+- `06-Playbooks/AI/` : Protocoles
+- `09-Checklists/` : Checklists

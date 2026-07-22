@@ -1,8 +1,8 @@
-# Agent Review
+# 04-Agents/Review
 
 ## Objectif
 
-L'agent Review est responsable de la validation finale de tous les livrables avant merge.
+Décrire l'Agent spécialiste Revue d'ExamOS.
 
 ## Structure
 
@@ -17,7 +17,8 @@ L'agent Review est responsable de la validation finale de tous les livrables ava
 └── CHECKLIST.md
 ```
 
-## Liens
+## Liens avec les autres dossiers
 
-- `01-Kernel/REVIEW_PROTOCOL.md`
-- `09-Checklists/Review.md`
+- `03-Orchestration/REVIEW_PIPELINE.md` : Pipeline de revue
+- `01-Kernel/REVIEW_PROTOCOL.md` : Protocole officiel
+- `09-Checklists/Review.md` : Checklist

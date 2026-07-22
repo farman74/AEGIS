@@ -1,8 +1,8 @@
-# Agent Backend
+# 04-Agents/Backend
 
 ## Objectif
 
-L'agent Backend est responsable de toute la logique serveur, les API et l'intégration avec Supabase.
+Décrire l'Agent spécialiste du développement backend d'ExamOS.
 
 ## Structure
 
@@ -17,7 +17,15 @@ L'agent Backend est responsable de toute la logique serveur, les API et l'intég
 └── CHECKLIST.md
 ```
 
-## Liens
+## Comment utiliser
 
-- `05-Engineering/Backend/RULES.md`
-- `05-Engineering/API/RULES.md`
+1. Lire `MISSION.md` pour comprendre le rôle de cet agent.
+2. Consulter `WORKFLOW.md` pour connaître le processus à suivre.
+3. Vérifier `INPUTS.md` pour les entrées acceptables.
+4. Utiliser `CHECKLIST.md` avant de livrer.
+
+## Liens avec les autres dossiers
+
+- `05-Engineering/Backend/` : Règles techniques appliquées par cet agent
+- `06-Playbooks/Backend/` : Protocols pas-à-pas
+- `09-Checklists/Backend.md` : Checklist de domaine

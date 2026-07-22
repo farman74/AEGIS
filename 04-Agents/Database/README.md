@@ -1,10 +1,8 @@
-# Agent Database
+# 04-Agents/Database
 
 ## Objectif
 
-L'agent Database est responsable de la conception et de la maintenance des schémas Supabase pour ExamOS.
-
-**Supabase est la seule base de données autorisée.**
+Décrire l'Agent spécialiste de la base de données Supabase d'ExamOS.
 
 ## Structure
 
@@ -19,11 +17,8 @@ L'agent Database est responsable de la conception et de la maintenance des sché
 └── CHECKLIST.md
 ```
 
-## Comment utiliser
+## Liens avec les autres dossiers
 
-Appelé après l'agent Architecture, avant l'agent Backend.
-
-## Liens
-
-- `05-Engineering/Database/RULES.md`
-- `02-Brain/ADR/ADR-001-supabase.md`
+- `05-Engineering/Database/` : Règles techniques
+- `06-Playbooks/Database/` : Protocoles pas-à-pas
+- `09-Checklists/Database.md` : Checklist de domaine

@@ -1,14 +1,14 @@
-# Checklist Agent Database (Supabase)
+# Agent Database — Checklist
 
-Avant de valider un schéma ou une migration :
-
-- [ ] Supabase est la seule base de données utilisée
+- [ ] Supabase utilisé exclusivement
+- [ ] Aucune référence à PostgreSQL local, SQLite, Firebase, MongoDB ou Prisma
 - [ ] Intégrité référentielle respectée
-- [ ] Migrations réversibles (rollback possible)
-- [ ] UUID utilisés pour les IDs
-- [ ] Soft delete implémenté (deleted_at)
-- [ ] Audit logs configurés
+- [ ] Migration réversible
+- [ ] Politiques RLS définies
 - [ ] Index documentés
-- [ ] Row Level Security (RLS) activé
-- [ ] Aucune référence à PostgreSQL local, SQLite, Firebase, MongoDB
-- [ ] Schéma documenté dans Brain
+- [ ] Schéma documenté
+- [ ] `created_at` et `updated_at` présents
+
+## Références
+
+- `09-Checklists/Database.md`

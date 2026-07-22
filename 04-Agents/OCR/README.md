@@ -1,8 +1,8 @@
-# Agent OCR
+# 04-Agents/OCR
 
 ## Objectif
 
-L'agent OCR est responsable de la numérisation et de la lecture des copies manuscrites.
+Décrire l'Agent spécialiste OCR d'ExamOS.
 
 ## Structure
 
@@ -17,7 +17,8 @@ L'agent OCR est responsable de la numérisation et de la lecture des copies manu
 └── CHECKLIST.md
 ```
 
-## Liens
+## Liens avec les autres dossiers
 
-- `05-Engineering/OCR/RULES.md`
-- `04-Agents/AI/README.md`
+- `05-Engineering/OCR/` : Règles techniques
+- `06-Playbooks/OCR/` : Protocoles
+- `09-Checklists/OCR.md` : Checklist
